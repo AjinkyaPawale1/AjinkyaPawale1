@@ -1,25 +1,25 @@
 # Hi, I'm Ajinkya Pawale 👋
 
-AI Engineer focused on building production-grade GenAI, RAG, and agentic AI systems for enterprise workflows.
+I am an AI Engineer working on GenAI, RAG, and agentic AI systems for real business workflows.
 
-I work at the intersection of applied AI, backend systems, retrieval, evaluation, and human-in-the-loop workflows — turning messy real-world business problems into reliable AI products that people can actually use.
+Most of my work sits between applied AI, backend engineering, retrieval, evaluation, and human-in-the-loop workflows. I like building AI systems that are useful beyond demos and can fit into production environments.
 
 ## What I work on
 
-- **Generative AI & LLM systems** — RAG pipelines, prompt orchestration, LLM evaluation, confidence scoring, and structured outputs
-- **Agentic AI** — multi-agent workflows, tool-using agents, LangGraph-style orchestration, and enterprise AI guardrails
-- **Applied AI for regulated domains** — healthcare, insurance, claims workflows, document intelligence, and call-center automation
-- **Production AI engineering** — FastAPI services, async workflows, observability, testing, monitoring, and scalable data pipelines
-- **Human-in-the-loop AI** — workflows that route low-confidence or ambiguous outputs to reviewers instead of blindly trusting model responses
+- **Generative AI and LLM systems:** RAG pipelines, prompt orchestration, LLM evaluation, confidence scoring, and structured outputs
+- **Agentic AI:** multi-agent workflows, tool-using agents, LangGraph-style orchestration, and enterprise AI patterns
+- **Applied AI for regulated domains:** healthcare, insurance, claims workflows, document intelligence, and call-center automation
+- **Production AI engineering:** FastAPI services, async workflows, observability, testing, monitoring, and scalable data pipelines
+- **Human-in-the-loop AI:** workflows that route low-confidence or unclear outputs to reviewers when human review is needed
 
 ## Current focus
 
-I’m currently building enterprise AI systems that combine retrieval, LLM reasoning, evaluation, and workflow automation. Recent work includes:
+I am currently building enterprise AI systems that combine retrieval, LLM reasoning, evaluation, and workflow automation. Some of the areas I have worked on recently:
 
 - AI-powered claims automation for insurance workflows
-- RAG-based extraction across unstructured emails, attachments, and claim documents
+- RAG-based extraction from unstructured emails, attachments, and claim documents
 - LLM-as-a-Judge evaluation and confidence calibration
-- GenAI call summarization used by large call-center teams
+- GenAI call summarization for call-center teams
 - Multi-agent document compliance review systems
 - Observability dashboards for latency, quality, errors, and system health
 
@@ -39,9 +39,9 @@ Splunk · Datadog · Git · Bitbucket · GitLab · JIRA · Postman · Tableau ·
 
 ## A little more about me
 
-I started out in data engineering and automation, then moved deeper into applied ML and production AI. That path shaped how I think: models are only one part of the system. The real work is making AI grounded, measurable, explainable, observable, and useful inside actual business workflows.
+I started out in data engineering and automation, then moved deeper into applied ML and production AI. That path has shaped how I think about AI systems. The model is only one part of the solution. The harder part is making the system grounded, measurable, explainable, observable, and useful for the people using it.
 
-I enjoy working on problems where AI needs to be more than a demo — where accuracy, reliability, evaluation, and user trust matter.
+I enjoy working on problems where accuracy, reliability, evaluation, and user trust matter.
 
 ## Let's connect
 
@@ -50,4 +50,4 @@ I enjoy working on problems where AI needs to be more than a demo — where accu
 
 ---
 
-*Always exploring better ways to build useful AI systems — from RAG and agents to evaluation, observability, and enterprise deployment.*
+Currently exploring better ways to build useful AI systems across RAG, agents, evaluation, observability, and enterprise deployment.
