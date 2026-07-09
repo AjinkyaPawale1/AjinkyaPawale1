@@ -4,6 +4,10 @@ I am an AI Engineer working on GenAI, RAG, and agentic AI systems for real busin
 
 Most of my work sits between applied AI, backend engineering, retrieval, evaluation, and human-in-the-loop workflows. I like building AI systems that are useful beyond demos and can fit into production environments.
 
+## Patent-Pending Contribution
+
+Named inventor on an employer-owned U.S. provisional patent application related to enterprise GenAI, multi-agent document orchestration, multimodal document analysis, style-guide compliance, and segment-level parallel analysis. Proprietary implementation details are intentionally omitted.
+
 ## What I work on
 
 - **Generative AI and LLM systems:** RAG pipelines, prompt orchestration, LLM evaluation, confidence scoring, and structured outputs
@@ -20,7 +24,6 @@ I am currently building enterprise AI systems that combine retrieval, LLM reason
 - RAG-based extraction from unstructured emails, attachments, and claim documents
 - LLM-as-a-Judge evaluation and confidence calibration
 - GenAI call summarization for call-center teams
-- Named inventor on an employer-owned U.S. provisional patent application related to enterprise GenAI, multi-agent document analysis, and compliance automation. Public implementation details intentionally omitted due to proprietary IP.
 - Observability dashboards for latency, quality, errors, and system health
 
 ## Tech I use
