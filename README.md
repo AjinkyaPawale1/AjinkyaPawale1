@@ -20,7 +20,7 @@ I am currently building enterprise AI systems that combine retrieval, LLM reason
 - RAG-based extraction from unstructured emails, attachments, and claim documents
 - LLM-as-a-Judge evaluation and confidence calibration
 - GenAI call summarization for call-center teams
-- Multi-agent document compliance review systems
+- Named inventor on an employer-owned U.S. provisional patent application related to enterprise GenAI, multi-agent document analysis, and compliance automation. Public implementation details intentionally omitted due to proprietary IP.
 - Observability dashboards for latency, quality, errors, and system health
 
 ## Tech I use
