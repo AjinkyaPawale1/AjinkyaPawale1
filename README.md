@@ -50,6 +50,7 @@ I enjoy working on problems where accuracy, reliability, evaluation, and user tr
 
 - LinkedIn: [linkedin.com/in/ajinkya-pawale](https://www.linkedin.com/in/ajinkya-pawale/)
 - GitHub: [github.com/AjinkyaPawale1](https://github.com/AjinkyaPawale1)
+- Email: pawaleajinkya7@gmail.com
 
 ---
 
